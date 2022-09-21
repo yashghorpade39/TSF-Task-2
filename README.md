@@ -6,6 +6,6 @@
 
 Dataset Link: https://bit.ly/3cGyP8j
 
-Tool : Jupiter Notebook
+Tool : Jupyter Notebook
 
 Language: Python
